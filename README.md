@@ -22,7 +22,7 @@
 
 <!-- Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUMAR-KUSH&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rouymen&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ### 🛠️ Tech Stack
@@ -52,7 +52,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUMAR-KUSH&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rouymen&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ### 🎯 Goals
